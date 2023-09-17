@@ -1,8 +1,16 @@
 table {
   width: 75%;
   font-size: large;
+  border: 2px solid #000;    /* 2px solid black border around the table */
+}
+
+th {
+  border: 2px solid #000;    /* 2px solid black border around the table */
 }
 
 td {
   padding: 10px;
+  border: 2px solid #000;    /* 2px solid black border around the table */
 }
+
+tr:hover {background-color: #D6EEEE;}
