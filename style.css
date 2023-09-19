@@ -302,6 +302,7 @@ svg {
 }
 
 table {
+  margin: auto;
   caption-side: bottom;
   border-collapse: collapse;
 }
